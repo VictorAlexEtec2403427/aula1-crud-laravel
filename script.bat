@@ -4,7 +4,7 @@
 :: =====================================================
 
 :: Configurar o caminho do PHP (ALTERE ESTE CAMINHO)
-set CAMINHO_PHP=C:\wamp64\bin\php\php8.2.26
+set CAMINHO_PHP=C:\wamp64\bin\php\php8.3.14
 
 :: Adiciona ao PATH do Sistema (/M significa Machine/Sistema)
 echo [1/4] Adicionando %CAMINHO_PHP% ao PATH...
