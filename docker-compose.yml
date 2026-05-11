@@ -19,6 +19,7 @@ services:
     restart: always
     environment:
       - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASES=aula1
     networks:
       - VAMGnet
 
